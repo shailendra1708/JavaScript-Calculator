@@ -21,10 +21,9 @@ A basic web calculator built with HTML, CSS, and JavaScript. This project showca
 Follow these steps to get a local copy up and running:
 
 1. **Clone the repository:**
-2. git clone https://github.com/shailendra1708/calculator-project.git
-3. **Navigate to the project directory:**
-4. cd calculator-project
-5. **Open the project:**
+2. **Navigate to the project directory:**
+3. cd calculator-project
+4. **Open the project:**
    - Simply open the \`Calculator.html\` file in your preferred web browser to start using the calculator.
 
 ## 🤝 Contributing
